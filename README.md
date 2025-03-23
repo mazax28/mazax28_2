@@ -6,7 +6,7 @@
 
 <p align="center">
     🌍 Available in:  
-    🇬🇧 English | 🇪🇸 <a href="https://github.com/tuusuario/tu-repo-espanol" target="_blank">Leer en Español</a>
+    🇬🇧 English | 🇪🇸 <a href="https://github.com/mazax28" target="_blank">Leer en Español</a>
 </p>
 
 ---
