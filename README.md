@@ -41,10 +41,17 @@
 🔒 **[🔗 Secure API](https://github.com/marcos/api-security)** – A REST API with **JWT and OAuth authentication**, encryption, and security best practices.  
 
 ---
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=mazax28&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mazax28)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=mazax28&theme=material-palenight)](https://github.com/mazax28)
+</div>
+
 
 ## 🌐 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/tuusuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/marcos-zarate-0a77a5195" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:marcoskrause2002@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
