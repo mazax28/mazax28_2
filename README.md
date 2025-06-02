@@ -31,16 +31,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-✅ **[🔗 My Portfolio](https://miportafolio.com)** – A modern personal website built with **Next.js, Tailwind CSS, and Framer Motion**, optimized for SEO and performance.  
-
-📊 **[🔗 DashAnalytics](https://github.com/marcos/dashanalytics)** – An interactive real-time data visualization dashboard using **React, Chart.js, and Node.js**.  
-
-🛍️ **[🔗 E-Commerce UI](https://github.com/marcos/ecommerce-ui)** – A sleek e-commerce platform featuring **React, Redux, and Stripe integration**, focused on an intuitive shopping experience.  
-
-🔒 **[🔗 Secure API](https://github.com/marcos/api-security)** – A REST API with **JWT and OAuth authentication**, encryption, and security best practices.  
-
----
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
